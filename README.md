@@ -34,7 +34,7 @@ To run the project, follow these steps:
 [![Netbeans Ide](https://img.shields.io/badge/NETBEANS-FAD7A0?style=for-the-badge)](https://www.java.com/)
 
 # Contributors 🍟 #
-This project was developed by Siddharth lal deo ,Dashrath Singh Rajput and Akash Tank as a Java mini project for CAC 2 in Christ (Deemed to be University) Lavasa
+This project was developed by Yuvraj Giri ,Tania Bhattacharya and Gokul Jaga as a Java mini project for CAC 2 in Christ (Deemed to be University) Lavasa
 
 # Acknowledgments 🙏 #
 Alwin Sir for their helpful contributions and guidance throughout the project.
