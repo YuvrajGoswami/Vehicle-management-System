@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libraries/ucanaccess-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/jackcess-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/DateChooser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

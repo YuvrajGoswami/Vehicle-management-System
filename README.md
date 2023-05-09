@@ -1,40 +1,35 @@
-# Vehicle-management-System #
-![image](https://user-images.githubusercontent.com/118046310/236465130-64cf21f1-313b-4be3-abad-a733efb4d2bf.png "Admin Dashboard")
-This project is a Java Swing-based application for managing vehicles records.
+# Vehler
+Vehler is a Vehicle Management System built in Java using Microsoft Access as the backend database and SQL for queries.
 
-# Project Outline ☘ #
-Vehicle Management System is a software application that helps to manage the day-to-day operations of a vehicle rental or leasing business. It is a comprehensive solution that automates the entire process of vehicle management, starting from vehicle acquisition to disposal.
+The aim of this project was to develop an offline application that could manage vehicles, drivers as well as the passengers could book the rides.
 
-# Features #
+## Modules:
 
-*Vehicle Registration: Add new vehicles to the system with details such as make, model, year, mileage, and registration information.
+There are mainly 5 modules in this project.
+#### Vehicle Management
+Admin can add new vehicles, and manage them.
+#### Driver Management
+A new driver can sign up, pick up the kind of vehicle he drives and he'll be alloted a vehicle according to his selection. He can then turn his status as online and start picking rides.
+#### Passenger Management
+New passengers can sign up and login into the system to book rides. They can book a ride, check their current rides and also past rides.
+#### Rides Management
+Admin can manage the rides going on. An admin can even ban a driver.
+#### Booking Ride
+Ride booking is done by the passengers where they can choose from 3 types of vehicles i.e. Bus, Rickshaw and Car. They have to select the routes and begin the travelling.
 
-*Driver Management: Assign drivers to vehicles, and manage their information, including license details, driving history, and availability.
+## How to set up Project
 
-*Reservation Management: Manage vehicle reservations, including creating, modifying, and canceling reservations, and assigning vehicles to reservations.
+It's very simple. This project is developed using NetBeans. 
+* Install Netbeans
+* Import this project 
+* Add the libraries that are given in the Libraries Folder.
+* Admin account username: adeel619
+  Admin account password : 9901
 
-*Vehicle Maintenance: Track and schedule vehicle maintenance, including oil changes, tire rotations, and other regular maintenance tasks.
 
-*Fuel Management: Track fuel consumption and expenses, and generate reports to help manage fuel costs.
 
-*Reporting: Generate reports on vehicle usage, maintenance, and expenses, and export data to other applications for analysis.
 
-# How to Run the Project ✨ #
 
-To run the project, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Open the project in your Java IDE of choice.
-3. Run the Main.java file to launch the application.
 
-# Technologies Used 🎐 #
-[![Java](https://img.shields.io/badge/JAVA-FAD7A0?style=for-the-badge)](https://www.java.com/)
-[![Java Swing](https://img.shields.io/badge/JAVA_SWING-FAD7A0?style=for-the-badge)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![MySql](https://img.shields.io/badge/MYSQL-FAD7A0?style=for-the-badge)](https://www.java.com/)
-[![Netbeans Ide](https://img.shields.io/badge/NETBEANS-FAD7A0?style=for-the-badge)](https://www.java.com/)
 
-# Contributors 🍟 #
-This project was developed by Yuvraj Giri ,Tania Bhattacharya and Gokul J as a Java mini project for CAC 2 in Christ (Deemed to be University) Lavasa
-
-# Acknowledgments 🙏 #
-Alwin Sir for their helpful contributions and guidance throughout the project.
