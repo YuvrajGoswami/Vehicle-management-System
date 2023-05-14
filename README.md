@@ -5,7 +5,9 @@ The aim of this project was to develop an offline application that could manage 
 
 ## Modules:
 
+
 There are mainly 5 modules in this project.
+
 #### Vehicle Management
 Admin can add new vehicles, and manage them.
 #### Driver Management
